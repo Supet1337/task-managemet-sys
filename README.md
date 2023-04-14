@@ -1,5 +1,5 @@
 ### task-managemet-sys
-@Задание от chatGPT:
+Задание от chatGPT:
 Вот мое предложение:
 
 Создайте систему управления задачами (Task Management System) с использованием языка Go, микросервисной архитектуры, RabbitMQ, Docker, PostgreSQL и REST API.
