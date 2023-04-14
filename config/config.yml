@@ -1,0 +1,22 @@
+Postgres:
+  user: ""
+  password: ""
+  host: "localhost"
+  port: "5438"
+  dbname: "postgres"
+
+Redis:
+  host: "localhost"
+  port: "6379"
+  db: 0
+  password: ""
+
+System:
+  service_name: "test-pkg"
+  fernet_key: "fcGak6T093fEjAfd4c291IlTSVFAeLnr-e58ZcJo3Ok=" # https://8gwifi.org/CipherFunctionality
+
+Rabbit:
+  host: "localhost"
+  port: "5672"
+  user: ""
+  password: ""
