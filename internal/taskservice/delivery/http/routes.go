@@ -5,5 +5,6 @@ import (
 )
 
 func SetupUserRoutes() {
-	http.HandleFunc("/", index)
+	http.HandleFunc("/check", index)
+	http.HandleFunc("/create", createTask)
 }
